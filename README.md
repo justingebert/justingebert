@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages I speakh</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Languages I speak</h2>
+<h2 align="left">Tools I use</h2>
 
 ###
 

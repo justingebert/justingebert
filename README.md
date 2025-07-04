@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Tools I use</h2>
+<h2 align="left">Languages I speak</h2>
 
 ###
 

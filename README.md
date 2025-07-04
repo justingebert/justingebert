@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languages I speakh</h2>
+<h2 align="left">Languages I speak</h2>
 
 ###
 

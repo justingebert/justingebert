@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Justin and I'm a CS student</p>
+<p align="left">My name is Justin and I'm a computer science student from Berlin</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Quarkus, Kafka & Kubernetes</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Quarkus & Kubernetes </p>
 
 ###
 

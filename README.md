@@ -6,14 +6,10 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Quarkus & Kubernetes </p>
 
 ###
-
+<!--
 <h2 align="left">Languages I speak</h2>
 
 ###
@@ -72,6 +68,7 @@
 
 ###
 
+-->
 <!--
 **justingebert/justingebert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Quarkus & Kubernetes </p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Quakurs, Ansible & Mobile Dev </p>
 
 ###
 <!--

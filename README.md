@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning: Quarkus, Ansible & some Mobile Dev (hobby) </p>
+<p align="left">Creating bugs since 2021 🧙🏻<br>x I'm currently learning: Quarkus, Distributed Systems & some ESP32 hobby stuff </p>
 
 ###
 <!--
